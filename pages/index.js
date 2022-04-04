@@ -11,9 +11,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="" />
         <link rel="stylesheet" href="css/bootstrap.min.css" />
-        <link rel='stylesheet' href='../../scss/style.css' />
+        {/* <link rel='stylesheet' href='../styles/scss/style.scss' /> */}
       </Head>
-      <button className='btn btn-primary'>submit</button>
+      <button className='btn btn-dark2 btn-sm'>submit</button>
     </div>
   )
 }
