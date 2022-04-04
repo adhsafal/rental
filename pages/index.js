@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         {/* <link rel='stylesheet' href='../styles/scss/style.scss' /> */}
       </Head>
-      <button className='btn btn-dark2 btn-sm'>submit</button>
+      <button className='btn btn-warning btn-sm'><h1 className='font-weight-light'>submit</h1></button>
     </div>
   )
 }
